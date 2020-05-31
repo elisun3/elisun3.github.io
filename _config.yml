@@ -1,6 +1,6 @@
 # Site settings
 title: BY Blog
-SEOTitle: 孙磊的博客 | EliSun Blog
+SEOTitle: 孙磊的博客 | EliSun's Blog
 header-img: img/post-bg-desk.jpg
 email: elisun.me@gmail.com
 description: "Every failure is leading towards success."
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+
 zhihu_username:     elisun
 github_username:    elisun3
 facebook_username:  elisun.me

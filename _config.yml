@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: EliSun's Blog
 SEOTitle: 孙磊的博客 | EliSun's Blog
 header-img: img/post-bg-desk.jpg
 email: elisun.me@gmail.com
@@ -97,17 +97,8 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+  {
+        title: "简书·Eli Sun",
+        href: "https://www.jianshu.com/u/3f3aa2c97f1a"
     }
 ]
